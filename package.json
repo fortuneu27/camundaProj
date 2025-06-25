@@ -4,9 +4,8 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "install": "npm install",
     "start": "node src/index.js",
-    "initialStart": "npm run install && npm run start"
+    "initialStart": "npm install && npm run start"
   },
   "dependencies": {
     "@types/bpmn-moddle": "^5.1.11",
