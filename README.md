@@ -1,1 +1,1 @@
-To start the Project: run `npm run ininitialStart`
+To start the Project: run `npm run initialStart`
